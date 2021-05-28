@@ -1,5 +1,7 @@
 # ML3-Split the Bill
 
+** Official GitLab Repo at https://gitlab.oit.duke.edu/CS207_Spring2021/ml3-split-the-bill/-/tree/dev ** 
+
 **Names:** Caroline Carey, Jason Few, Jake Rosen, Natalie Sanchez, Jason Talpalar, & Blake Underwood
 
 **Goals**  
